@@ -1,0 +1,16 @@
+{
+    "name": "nightmachinary/tina",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Nightmachinary\\Tina\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NightMachinary",
+            "email": "rudiwillalwaysloveyou@gmail.com"
+        }
+    ],
+    "require": {}
+}
